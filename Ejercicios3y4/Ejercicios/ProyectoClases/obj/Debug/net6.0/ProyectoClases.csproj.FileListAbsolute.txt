@@ -1,0 +1,15 @@
+D:\net-angular\Ejercicios3y4\Ejercicios\ProyectoClases\bin\Debug\net6.0\ProyectoClases.exe
+D:\net-angular\Ejercicios3y4\Ejercicios\ProyectoClases\bin\Debug\net6.0\ProyectoClases.deps.json
+D:\net-angular\Ejercicios3y4\Ejercicios\ProyectoClases\bin\Debug\net6.0\ProyectoClases.runtimeconfig.json
+D:\net-angular\Ejercicios3y4\Ejercicios\ProyectoClases\bin\Debug\net6.0\ProyectoClases.dll
+D:\net-angular\Ejercicios3y4\Ejercicios\ProyectoClases\bin\Debug\net6.0\ProyectoClases.pdb
+D:\net-angular\Ejercicios3y4\Ejercicios\ProyectoClases\obj\Debug\net6.0\ProyectoClases.csproj.AssemblyReference.cache
+D:\net-angular\Ejercicios3y4\Ejercicios\ProyectoClases\obj\Debug\net6.0\ProyectoClases.GeneratedMSBuildEditorConfig.editorconfig
+D:\net-angular\Ejercicios3y4\Ejercicios\ProyectoClases\obj\Debug\net6.0\ProyectoClases.AssemblyInfoInputs.cache
+D:\net-angular\Ejercicios3y4\Ejercicios\ProyectoClases\obj\Debug\net6.0\ProyectoClases.AssemblyInfo.cs
+D:\net-angular\Ejercicios3y4\Ejercicios\ProyectoClases\obj\Debug\net6.0\ProyectoClases.csproj.CoreCompileInputs.cache
+D:\net-angular\Ejercicios3y4\Ejercicios\ProyectoClases\obj\Debug\net6.0\ProyectoClases.dll
+D:\net-angular\Ejercicios3y4\Ejercicios\ProyectoClases\obj\Debug\net6.0\refint\ProyectoClases.dll
+D:\net-angular\Ejercicios3y4\Ejercicios\ProyectoClases\obj\Debug\net6.0\ProyectoClases.pdb
+D:\net-angular\Ejercicios3y4\Ejercicios\ProyectoClases\obj\Debug\net6.0\ProyectoClases.genruntimeconfig.cache
+D:\net-angular\Ejercicios3y4\Ejercicios\ProyectoClases\obj\Debug\net6.0\ref\ProyectoClases.dll
