@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\TallerCshop\\.nuget\\packages\\": {}
+    "C:\\Users\\OmarTaller\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\net-angular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\ProyectoClases.csproj",
+      "projectUniqueName": "F:\\programacion web\\.net\\net_angular_mio\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\ProyectoClases.csproj",
       "projectName": "ProyectoClases",
-      "projectPath": "D:\\net-angular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\ProyectoClases.csproj",
-      "packagesPath": "C:\\Users\\TallerCshop\\.nuget\\packages\\",
-      "outputPath": "D:\\net-angular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\obj\\",
+      "projectPath": "F:\\programacion web\\.net\\net_angular_mio\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\ProyectoClases.csproj",
+      "packagesPath": "C:\\Users\\OmarTaller\\.nuget\\packages\\",
+      "outputPath": "F:\\programacion web\\.net\\net_angular_mio\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TallerCshop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\OmarTaller\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
