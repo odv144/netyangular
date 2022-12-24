@@ -1,0 +1,15 @@
+D:\netyangular\Ejercicios3y4\Ejercicios\ProyectoColleccion\bin\Debug\net6.0\ProyectoColleccion.exe
+D:\netyangular\Ejercicios3y4\Ejercicios\ProyectoColleccion\bin\Debug\net6.0\ProyectoColleccion.deps.json
+D:\netyangular\Ejercicios3y4\Ejercicios\ProyectoColleccion\bin\Debug\net6.0\ProyectoColleccion.runtimeconfig.json
+D:\netyangular\Ejercicios3y4\Ejercicios\ProyectoColleccion\bin\Debug\net6.0\ProyectoColleccion.dll
+D:\netyangular\Ejercicios3y4\Ejercicios\ProyectoColleccion\bin\Debug\net6.0\ProyectoColleccion.pdb
+D:\netyangular\Ejercicios3y4\Ejercicios\ProyectoColleccion\obj\Debug\net6.0\ProyectoColleccion.csproj.AssemblyReference.cache
+D:\netyangular\Ejercicios3y4\Ejercicios\ProyectoColleccion\obj\Debug\net6.0\ProyectoColleccion.GeneratedMSBuildEditorConfig.editorconfig
+D:\netyangular\Ejercicios3y4\Ejercicios\ProyectoColleccion\obj\Debug\net6.0\ProyectoColleccion.AssemblyInfoInputs.cache
+D:\netyangular\Ejercicios3y4\Ejercicios\ProyectoColleccion\obj\Debug\net6.0\ProyectoColleccion.AssemblyInfo.cs
+D:\netyangular\Ejercicios3y4\Ejercicios\ProyectoColleccion\obj\Debug\net6.0\ProyectoColleccion.csproj.CoreCompileInputs.cache
+D:\netyangular\Ejercicios3y4\Ejercicios\ProyectoColleccion\obj\Debug\net6.0\ProyectoColleccion.dll
+D:\netyangular\Ejercicios3y4\Ejercicios\ProyectoColleccion\obj\Debug\net6.0\refint\ProyectoColleccion.dll
+D:\netyangular\Ejercicios3y4\Ejercicios\ProyectoColleccion\obj\Debug\net6.0\ProyectoColleccion.pdb
+D:\netyangular\Ejercicios3y4\Ejercicios\ProyectoColleccion\obj\Debug\net6.0\ProyectoColleccion.genruntimeconfig.cache
+D:\netyangular\Ejercicios3y4\Ejercicios\ProyectoColleccion\obj\Debug\net6.0\ref\ProyectoColleccion.dll
