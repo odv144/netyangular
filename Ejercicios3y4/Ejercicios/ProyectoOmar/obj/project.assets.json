@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\ProyectoClases.csproj",
-      "projectName": "ProyectoClases",
-      "projectPath": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\ProyectoClases.csproj",
+      "projectUniqueName": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoOmar\\ProyectoOmar.csproj",
+      "projectName": "ProyectoOmar",
+      "projectPath": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoOmar\\ProyectoOmar.csproj",
       "packagesPath": "C:\\Users\\OmarTaller\\.nuget\\packages\\",
-      "outputPath": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\obj\\",
+      "outputPath": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoOmar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OmarTaller\\AppData\\Roaming\\NuGet\\NuGet.Config",
