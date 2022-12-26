@@ -50,25 +50,49 @@ Console.WriteLine($"La palabra mas larga es {PalabraLarga}");
 #endregion
 
 #region Ejercicio 4
-List<string> Productos = new List<string>();
+/*
+List<string> Productos = new List<string>() { "carne","arroz","azucar"};
+List<string> Comprados = new List<string>();
+List<string> CompradosFuera = new List<string>();
 string prod;
 do
 {
     Console.WriteLine("Ingrese el nombre del producto");
     prod = Console.ReadLine();
     int indice = Productos.IndexOf(prod);
-    if (indice > 0)
+    if(prod == "fin")
+    {
+        break;
+    }
+    if (indice != -1)
     {
         Productos.RemoveAt(indice);
+        Comprados.Add(prod);
         Console.WriteLine("El elemento estaba en la lista y se quito");
     }
     else
     {
-        Productos.Add(prod);
-        Console.WriteLine($"El producto {prod} se agrego a la lista");
+        //Productos.Add(prod);
+        CompradosFuera.Add(prod);
+        Console.WriteLine($"El producto {prod} no estaba y se agrego a la lista");
     }
 
 } while (prod != "fin");
+Console.WriteLine("Productos no comprados");
+Productos.ForEach(producto => {
+    Console.WriteLine("*-*" +producto);
+});
+Console.WriteLine("Productos comprados");
+Comprados.ForEach(producto => {
+    Console.WriteLine("*-*" + producto);
+});
+
+Console.WriteLine("Productos comprados que no estaban en la lista");
+CompradosFuera.ForEach(producto => {
+    Console.WriteLine("*-*" + producto);
+});
+
+*/
 #endregion
 
 #region Ejercicio 5
@@ -102,10 +126,15 @@ for (int i = 0; i < 5; i++)
 #endregion
 
 #region Ejercicio 6
+/*
 var randomNumber = new Random();
+string[] dias = new string[] {"Domingo", "Lunes","Martes", "Miércoles","Jueves","Viernes", "Sábado" };
 int[,] temperatura = new int[5, 7];
 int con = 0;
-for(int i = 0; i < 5; i++)
+
+int TemMaxMes = 0;
+string DiaTemMes = "";
+for (int i = 0; i < 5; i++)
 {
     for(int j = 0; j < 7; j++)
     {
@@ -119,7 +148,74 @@ for (int i = 0; i < 5; i++)
 {
     for (int j = 0; j < 7; j++)
     {
-        Console.Write(temperatura[i, j]+"|"); 
+          Console.Write(temperatura[i, j] + "|");
+    }
+    Console.WriteLine("");
+}
+
+for (int i = 0; i < 5; i++)
+{
+    int TemSemMax = 0;
+    int TemSemMin = 38;
+    string DiaTemMax = "";
+    string DiaTemMin = "";
+    int TemPromedio = 0;
+
+    for (int j = 0; j < 7; j++)
+    {
+        if (TemSemMax < temperatura[i,j])
+        {
+            TemSemMax = temperatura[i, j];
+            DiaTemMax = dias[j];
+           
+        }
+        else
+        {
+           if (TemSemMin > temperatura[i, j] && temperatura[i,j]!=0)
+            {
+                TemSemMin = temperatura[i, j];
+                DiaTemMin = dias[j];
+            }
+        }
+        TemPromedio += temperatura[i, j]; 
+
+    }
+        Console.WriteLine($"Mínima semana {i+1} fue el día {DiaTemMin} de: {TemSemMin}º");
+        Console.WriteLine($"Máxima semana {i+1} fue el día {DiaTemMax} de: {TemSemMax}º");
+        Console.WriteLine($"El promedio de la semana {i+1} es: {TemPromedio/7}"); 
+    if (TemMaxMes < TemSemMax)
+    {
+        TemMaxMes = TemSemMax;
+        DiaTemMes = DiaTemMax;
+    }
+}
+Console.WriteLine($"La Temperatura máxima del mes fue el dia {DiaTemMes} de {TemMaxMes}º");
+*/
+#endregion
+
+#region Ejercicio 7
+
+int[,] tabla = new int[10, 10];
+for(int i =0; i < 10; i++)
+{
+    for(int j = 0; j < 10; j++)
+    {
+        if(i==0 ||j == 0)
+        {
+            tabla[i, j] = i+j;
+        }
+        else
+        {
+            tabla[i, j] = i*j;
+
+        }
+    }
+}
+for (int i = 0; i < 10; i++)
+{
+    for (int j = 0; j < 10; j++)
+    {
+        Console.Write(tabla[i, j]+"|");
     }
     Console.WriteLine("");
 }
