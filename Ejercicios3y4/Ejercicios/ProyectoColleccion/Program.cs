@@ -194,7 +194,7 @@ Console.WriteLine($"La Temperatura máxima del mes fue el dia {DiaTemMes} de {Te
 #endregion
 
 #region Ejercicio 7
-
+/*
 int[,] tabla = new int[10, 10];
 for(int i =0; i < 10; i++)
 {
@@ -219,4 +219,62 @@ for (int i = 0; i < 10; i++)
     }
     Console.WriteLine("");
 }
+*/
+#endregion
+#region ejercicio 8
+char[,] oculto = new char[10, 10];
+var aleatorio = new Random();
+int posX;
+int posY;
+int canX = 5;
+int fallos = 0;
+for(int i = 0; i < canX; i++)
+{
+    posX = aleatorio.Next(0, 9);
+    posY = aleatorio.Next(0, 9);
+    oculto[posX, posY] = 'X';
+}
+int intento = 0;
+while (intento < canX)
+{
+    Console.WriteLine("Ingrese la posicion a adivinar primero la fila y luego la columna");
+    Console.WriteLine($"Realizo {intento+1} de {canX} intentos se mostrar al Final Con una A");
+  
+    Console.WriteLine("Ingrese la fila");
+    Int32.TryParse(Console.ReadLine(), out posX);
+
+    Console.WriteLine("Ingrese la columna");
+    Int32.TryParse(Console.ReadLine(), out posY);
+    if (oculto[posX, posY] == 'X' && posX < 10 && posY < 10)
+    {
+        oculto[posX, posY] = 'A';
+        Console.WriteLine("Su elección fue Acertada");
+
+    }
+    else {
+        if (fallos > 2)
+        {
+            Console.WriteLine("Supero los 3 fallos permitidos");
+            break;
+        }
+        fallos++;
+    }
+
+    intento++;
+}
+
+
+for (int i = 0; i < 10; i++)
+{
+    for(int j = 0; j < 10; j++)
+    {
+        if (oculto[i,j]=='X' || oculto[i,j]=='A')
+            Console.Write(oculto[i,j]+"|");
+        else
+            Console.Write("*|");
+    }
+    Console.WriteLine("");
+}
+
+
 #endregion
