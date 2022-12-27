@@ -15,6 +15,7 @@ namespace WebAppOmar.Controllers
 
         public IActionResult Index()
         {
+            //Intentando probar la solucion de merge
             return View();
         }
 
