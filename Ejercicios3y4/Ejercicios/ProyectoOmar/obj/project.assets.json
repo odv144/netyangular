@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\ProyectoClases.csproj",
-      "projectName": "ProyectoClases",
-      "projectPath": "D:\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\ProyectoClases.csproj",
+      "projectUniqueName": "D:\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoOmar\\ProyectoOmar.csproj",
+      "projectName": "ProyectoOmar",
+      "projectPath": "D:\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoOmar\\ProyectoOmar.csproj",
       "packagesPath": "C:\\Users\\TallerCshop\\.nuget\\packages\\",
-      "outputPath": "D:\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\obj\\",
+      "outputPath": "D:\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoOmar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TallerCshop\\AppData\\Roaming\\NuGet\\NuGet.Config",
