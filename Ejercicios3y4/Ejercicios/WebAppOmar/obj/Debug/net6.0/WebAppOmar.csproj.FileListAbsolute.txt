@@ -29,3 +29,4 @@ F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebAppOmar\obj\Deb
 F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebAppOmar\obj\Debug\net6.0\WebAppOmar.pdb
 F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebAppOmar\obj\Debug\net6.0\WebAppOmar.genruntimeconfig.cache
 F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebAppOmar\obj\Debug\net6.0\ref\WebAppOmar.dll
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebAppOmar\obj\Debug\net6.0\scopedcss\Views\Shared\_LayoutCasa.cshtml.rz.scp.css

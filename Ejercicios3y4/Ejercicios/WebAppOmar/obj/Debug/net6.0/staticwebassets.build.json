@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1i4QzWRMsqbfa1133N2MIPlXdSWkwskXasMfgA01T5A=",
+  "Hash": "u1sAY/KwyKHS64zgCueDhR53zpAK4XJx/yQzfb5r8ek=",
   "Source": "WebAppOmar",
   "BasePath": "_content/WebAppOmar",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\WebAppOmar\\wwwroot\\css\\siteCasa.css",
+      "SourceId": "WebAppOmar",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\WebAppOmar\\wwwroot\\",
+      "BasePath": "_content/WebAppOmar",
+      "RelativePath": "css/siteCasa.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\siteCasa.css"
     },
     {
       "Identity": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\WebAppOmar\\wwwroot\\favicon.ico",

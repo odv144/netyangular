@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\WebAppOmar\\wwwroot\\css\\siteCasa.css",
+      "PackagePath": "staticwebassets\\css\\siteCasa.css"
+    },
+    {
       "Id": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\WebAppOmar\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
