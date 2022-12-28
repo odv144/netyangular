@@ -15,8 +15,6 @@ namespace WebAppOmar.Controllers
 
         public IActionResult Index()
         {
-            int id = 0;
-            //agregando 2 lineas
             return View();
         }
 
