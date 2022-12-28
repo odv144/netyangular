@@ -16,6 +16,7 @@ namespace WebAppOmar.Controllers
         public IActionResult Index()
         {
             return View();
+            //varios cambios nuevos
         }
 
         public IActionResult Privacy()
