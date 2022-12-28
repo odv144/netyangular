@@ -18,6 +18,7 @@ namespace WebAppOmar.Controllers
             int id = 0;
             //agregando 2 lineas
             return View();
+            //varios cambios nuevos
         }
 
         public IActionResult Privacy()
