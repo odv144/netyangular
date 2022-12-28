@@ -15,8 +15,10 @@ namespace WebAppOmar.Controllers
 
         public IActionResult Index()
         {
+            //Segundo intento el primero fallo
             return View();
             //varios cambios nuevos
+            //tampoco se porque
         }
 
         public IActionResult Privacy()
