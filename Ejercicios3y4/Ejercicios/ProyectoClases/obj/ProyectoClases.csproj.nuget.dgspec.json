@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\ProyectoClases.csproj": {}
+    "D:\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\ProyectoClases.csproj": {}
   },
   "projects": {
-    "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\ProyectoClases.csproj": {
+    "D:\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\ProyectoClases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\ProyectoClases.csproj",
+        "projectUniqueName": "D:\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\ProyectoClases.csproj",
         "projectName": "ProyectoClases",
-        "projectPath": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\ProyectoClases.csproj",
-        "packagesPath": "C:\\Users\\OmarTaller\\.nuget\\packages\\",
-        "outputPath": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\obj\\",
+        "projectPath": "D:\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\ProyectoClases.csproj",
+        "packagesPath": "C:\\Users\\TallerCshop\\.nuget\\packages\\",
+        "outputPath": "D:\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoClases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\OmarTaller\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TallerCshop\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,12 +45,16 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

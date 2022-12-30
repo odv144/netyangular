@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\OmarTaller\\.nuget\\packages\\": {}
+    "C:\\Users\\TallerCshop\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoColleccion\\ProyectoColleccion.csproj",
+      "projectUniqueName": "D:\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoColleccion\\ProyectoColleccion.csproj",
       "projectName": "ProyectoColleccion",
-      "projectPath": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoColleccion\\ProyectoColleccion.csproj",
-      "packagesPath": "C:\\Users\\OmarTaller\\.nuget\\packages\\",
-      "outputPath": "F:\\programacion web\\.net\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoColleccion\\obj\\",
+      "projectPath": "D:\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoColleccion\\ProyectoColleccion.csproj",
+      "packagesPath": "C:\\Users\\TallerCshop\\.nuget\\packages\\",
+      "outputPath": "D:\\netyangular\\Ejercicios3y4\\Ejercicios\\ProyectoColleccion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\OmarTaller\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TallerCshop\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,12 +51,16 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
