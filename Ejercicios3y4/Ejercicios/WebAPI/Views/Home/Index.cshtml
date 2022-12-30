@@ -1,0 +1,44 @@
+﻿@Model List<Producto>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenidos</h1>
+    
+</div>
+<div class="card">
+  <div class="card-header">
+        @ViewBag.Accion
+  </div>
+  <div class="card-body">
+      <a asp-action="Producto" asp-controller="Home" asp-route-idProducto="0" class="btn btn-primary btn-sm"> Nuevo Producto </a>
+        <hr />
+        <table class="table">
+            <thead>
+                <th>Codigo de Barra</th>
+                <th>Nombre</th>
+                <th>Marca</th>
+                <th>Categoria</th>
+                <th>Precio</th>
+            </thead>
+            <tbody>
+                    @foreach(var item in Model)
+                    {
+                        <tr>
+                            <td>@item.CodigoBarra</td>
+                            <td>@item.Nombre</td>
+                            <td>@item.Marca</td>
+                            <td>@item.Categoria</td>
+                            <td>@item.Precio</td>
+                            <td>
+                               <a asp-action="Producto" asp-controller="Home" asp-route-idProducto=@item.idProducto class="btn btn-primary btn-sm ">Nuevo Producto</a>  
+                               <a asp-action="Eliminar" asp-controller="Home" asp-route-idProducto=@item.idProducto class="btn btn-danger btn-sm ">Eliminar</a>  
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+        </table>
+    
+  </div>
+</div>

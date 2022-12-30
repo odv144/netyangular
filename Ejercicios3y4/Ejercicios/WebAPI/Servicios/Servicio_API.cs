@@ -30,8 +30,9 @@ namespace WebAPI.Servicios
 
             var response = await cliente.PostAsync("api/Autenticacion/Validar", content);
 
-            var json_respuesta = await response.Content.ReadAsStreamAsync();
+            var json_respuesta = await response.Content.ReadAsStringAsync();
             var resultado = JsonConvert.DeserializeObject<ResultadoCredencial>(json_respuesta);
+            
             
             _token = resultado.token;
         }
@@ -47,7 +48,7 @@ namespace WebAPI.Servicios
             var response = await cliente.GetAsync("api/Producto/Lista");
             if (response.IsSuccessStatusCode)
             {
-                var json_respuesta = await response.Content.ReadAsStreamAsync();
+                var json_respuesta = await response.Content.ReadAsStringAsync();
                 var resultado = JsonConvert.DeserializeObject<ResultadoApi>(json_respuesta);
                 lista = resultado.lista;
             }
@@ -64,7 +65,7 @@ namespace WebAPI.Servicios
             var response = await cliente.GetAsync($"api/Producto/Obtener/{idProducto}");
             if (response.IsSuccessStatusCode)
             {
-                var json_respuesta = await response.Content.ReadAsStreamAsync();
+                var json_respuesta = await response.Content.ReadAsStringAsync();
                 var resultado = JsonConvert.DeserializeObject<ResultadoApi>(json_respuesta);
                 objeto = resultado.objeto;
             }
