@@ -29,7 +29,7 @@ namespace WebApiMia.Controllers
             })
             .ToArray();
         }
-        [HttpPost(Name = "PostObtener")]
+        [HttpGet(Name = "GettObtener")]
         public string Obtener() 
         {
             Boolean flag = false;
