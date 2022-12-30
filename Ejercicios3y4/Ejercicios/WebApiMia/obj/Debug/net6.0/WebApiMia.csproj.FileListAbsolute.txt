@@ -25,3 +25,35 @@ D:\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\refint\WebApi
 D:\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\WebApiMia.pdb
 D:\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\WebApiMia.genruntimeconfig.cache
 D:\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\ref\WebApiMia.dll
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\bin\Debug\net6.0\appsettings.Development.json
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\bin\Debug\net6.0\appsettings.json
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\bin\Debug\net6.0\WebApiMia.exe
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\bin\Debug\net6.0\WebApiMia.deps.json
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\bin\Debug\net6.0\WebApiMia.runtimeconfig.json
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\bin\Debug\net6.0\WebApiMia.dll
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\bin\Debug\net6.0\WebApiMia.pdb
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\WebApiMia.csproj.AssemblyReference.cache
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\WebApiMia.GeneratedMSBuildEditorConfig.editorconfig
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\WebApiMia.AssemblyInfoInputs.cache
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\WebApiMia.AssemblyInfo.cs
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\WebApiMia.csproj.CoreCompileInputs.cache
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\WebApiMia.MvcApplicationPartsAssemblyInfo.cs
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\WebApiMia.MvcApplicationPartsAssemblyInfo.cache
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\staticwebassets\msbuild.WebApiMia.Microsoft.AspNetCore.StaticWebAssets.props
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiMia.props
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiMia.props
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiMia.props
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\staticwebassets.pack.json
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\staticwebassets.build.json
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\staticwebassets.development.json
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\scopedcss\bundle\WebApiMia.styles.css
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\WebApiMia.csproj.CopyComplete
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\WebApiMia.dll
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\refint\WebApiMia.dll
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\WebApiMia.pdb
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\WebApiMia.genruntimeconfig.cache
+F:\programacion web\.net\netyangular\Ejercicios3y4\Ejercicios\WebApiMia\obj\Debug\net6.0\ref\WebApiMia.dll
