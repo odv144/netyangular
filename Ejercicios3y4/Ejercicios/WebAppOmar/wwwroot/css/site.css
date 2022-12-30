@@ -16,3 +16,12 @@ html {
 body {
   margin-bottom: 60px;
 }
+table{
+    border: 2px double green;
+    background-color:aqua;
+    margin-left:50px;
+    padding:3px;
+}
+table thead {
+    background-color:brown;
+}
