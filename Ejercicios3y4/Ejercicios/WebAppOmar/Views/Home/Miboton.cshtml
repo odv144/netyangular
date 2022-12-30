@@ -1,0 +1,27 @@
+﻿@{
+    //Layout = "_LayoutCasa";
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenido</h1>
+    <p>Estoy agregando una nueva vista y pagina la cual usara otro Layout en este caso _LayoutCasa.cshtml.</p>
+</div>
+<section class="container">
+    <div class="row">
+
+    <div class="circulo col-4"><p>BOTON1</p></div>
+    <div class="circulo col-4"><p>BOTON2</p></div>
+    <div class="circulo col-4"><p>BOTON3</p></div>
+    </div>
+    <div class="row">
+        <div class="circulo col-4"><p>BOTON4</p></div>
+    <div class="circulo col-4"><p>BOTON5</p></div>
+    </div>
+</section>
+<div>
+    <h1>Nueva pagina acediendo desde un boton con ruta armada</h1>
+    <h2>
+        <a href="/Home/Miboton" class="btn btn-success">MIBoton</a>
+    </h2>
+</div>

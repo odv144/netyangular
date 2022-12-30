@@ -21,5 +21,34 @@ body {
     height:90px;
     width:100%;
     background-color:brown;
-    border:2px solid blue;
+    border:2px solid yellow;
 }
+.principal{
+    background-color:#4cff00;
+    display:flex
+    
+}
+.row {
+    justify-content:center;
+}
+.circulo{
+    width:180px;
+    height:180px;
+    border:2px solid #1f8207;
+    border-radius:50%;
+    background-color:#00ff90;
+    padding:10px;
+    margin:20px;
+    align-items:center;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    
+}
+.circulo p{
+    color:#0a3292;
+    
+    font-weight:900;
+   
+}
+
