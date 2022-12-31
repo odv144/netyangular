@@ -30,17 +30,10 @@ namespace WebApiMia.Controllers
             .ToArray();
         }
         [HttpGet(Name = "GettObtener")]
-        public string Obtener() 
+        public int Obtener() 
         {
-            Boolean flag = false;
-            if (flag)
-            {
-                return "Variable Verdadera";
-            }
-            else
-            {
-                return "Variable False";
-            }
+            int[] vector = new int[5] { 1, 2, 5, 3, 6 };
+            return vector[0];
         }
     }
 }
